@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 
-	name="Work13(less15)",
+	name="Work13less15",
 
 	version="0.0.1",
 
